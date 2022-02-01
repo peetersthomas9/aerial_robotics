@@ -1,0 +1,3 @@
+The main file is 'test.py' and can be run without any changes
+
+The two other files 'drone.py' and 'utilities.py' are classes with functions used in test.py
