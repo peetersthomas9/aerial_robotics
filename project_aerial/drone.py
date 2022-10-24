@@ -25,6 +25,7 @@ MIN_DISTANCE = 400  # distance use for the ranger to assume there is an obstacle
 VEL_LOCAL = 0.2     # velocity use for local avoidance
 LAND_ZONE = 150     # distance in cm from the border  
 
+print('hello')
 class quad():
 
     def __init__(self, cf, id='radio://0/80/2M/E7E7E7E7E7',
