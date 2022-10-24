@@ -18,6 +18,8 @@ from utilities import *
 
 """
 Class drone:  where we code all the functions used by the drone 
+
+see if it is added to new version (used for test not final version)
 """
 
 
