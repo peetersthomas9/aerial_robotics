@@ -14,6 +14,8 @@ from utilities import *
 
 """
 Main file to run 
+
+rebase on test branch see how it works
 """
 def reset_estimator(scf):
     """ function use to resete the kalman filter so that we have less errors for the landing"""
